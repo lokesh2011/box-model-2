@@ -1,0 +1,22 @@
+body {
+  background-color: blue;
+}
+#border-layer {
+  border: 2px solid greenyellow;
+  height: 400px;
+  margin: 50px;
+  padding: 50px;
+  background-color: #6257a1;
+}
+#content-layer {
+  color: white;
+}
+p {
+  margin-bottom: 50px;
+}
+a {
+  text-decoration: none;
+  color: white;
+  background-color: yellowgreen;
+  padding: 10px;
+}
